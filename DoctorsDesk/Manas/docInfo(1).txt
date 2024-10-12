@@ -1,0 +1,6 @@
+Manas
+Misty@123
+First Name: Manas
+Last Name: Gawali
+Qualification: MBBS
+EmailID: manas@gmail.com
